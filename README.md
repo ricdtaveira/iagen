@@ -1,2 +1,2 @@
-# iagen
+# IA Generativa
 Repositório de Prompts
